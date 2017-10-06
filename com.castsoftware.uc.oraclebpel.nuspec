@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>com.castsoftware.uc.oraclebpel</id>
+        <version>2.1</version>
+        <title>BPEL Extension</title>
+        <authors>User Community</authors>
+        <owners>CAST</owners>
+        <licenseUrl>https://extend.castsoftware.com/V2/Licenses/Cast-Licence-UserCommunity-1.0.html</licenseUrl>
+        <projectUrl>https://github.com/CASTSKE/com.castsoftware.uc.bpel.2.1</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>This extension can be installed to enable the analysis of BPEL  and WSDL code contained in any application.</description>
+        <releaseNotes>https://github.com/CASTSKE/com.castsoftware.uc.bpel.2.1</releaseNotes>
+        <tags>CAIP8.0.x CAIP8.1.x techno:BPEL techno:BPM</tags>
+    </metadata>
+</package>
